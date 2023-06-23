@@ -1,2 +1,2 @@
-# Efeito-Dropdown
-Simulação do menu de navegação de um site de compras, com efeito dropdown.
+# Efeito Dropdown - Menu de Loja
+Este programa é uma simples simulação de como seria um menu de navegação de uma loja de roupas **fictícia**.
